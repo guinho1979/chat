@@ -1,0 +1,30 @@
+{
+  "name": "chatpipoca.net",
+  "short_name": "chatpipoca.net",
+  "start_url": "/",
+  "display": "standalone",
+  "gcm_sender_id": "482941778795",
+  "lang": "pt-BR",
+  "orientation": "any",
+  "background_color": "#343a40",
+  "theme_color": "#343a40",
+  "description": "Rede Social",
+"version": "1.0",
+"icons": [{
+    "src": "/style/by-nandosp-1633535705-Screenshot_20211006-125406.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }],
+"app": {
+"urls": [
+"https://chatpipoca.net/"
+],
+"launch": {
+"web_url": "https://chatpipoca.net/"
+}
+},
+"permissions": [
+"unlimitedStorage",
+"notifications"
+]
+}
